@@ -1,0 +1,15 @@
+G:\my_projects\Microsoft_learn\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.exe
+G:\my_projects\Microsoft_learn\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.deps.json
+G:\my_projects\Microsoft_learn\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.runtimeconfig.json
+G:\my_projects\Microsoft_learn\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.dll
+G:\my_projects\Microsoft_learn\DotNetDebugging\bin\Debug\net8.0\DotNetDebugging.pdb
+G:\my_projects\Microsoft_learn\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+G:\my_projects\Microsoft_learn\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.AssemblyInfoInputs.cache
+G:\my_projects\Microsoft_learn\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.AssemblyInfo.cs
+G:\my_projects\Microsoft_learn\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+G:\my_projects\Microsoft_learn\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.sourcelink.json
+G:\my_projects\Microsoft_learn\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.dll
+G:\my_projects\Microsoft_learn\DotNetDebugging\obj\Debug\net8.0\refint\DotNetDebugging.dll
+G:\my_projects\Microsoft_learn\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.pdb
+G:\my_projects\Microsoft_learn\DotNetDebugging\obj\Debug\net8.0\DotNetDebugging.genruntimeconfig.cache
+G:\my_projects\Microsoft_learn\DotNetDebugging\obj\Debug\net8.0\ref\DotNetDebugging.dll
